@@ -70,7 +70,7 @@ This is one way to run your app — you can also build it directly from Android 
 
 Now that you have successfully run the app, let's make changes!
 
-Open `App.tsx` in your text editor of choice and make some changes. When you save, your app will automatically update and reflect these changes — this is powered by [Fast Refresh](https://reactnative.dev/docs/fast-refresh).
+Open `App.tsx` in your text editor of choice and make some changes. When you save, your app will automatically update and reflect these changes — this is powered by [Fast Refresh](https://reactnative.dev/docs/fast-refresh).
 
 When you want to forcefully reload, for example to reset the state of your app, you can perform a full reload:
 
@@ -102,13 +102,15 @@ To learn more about React Native, take a look at the following resources:
 
 # Outputs
 
-Login
-![image](https://github.com/user-attachments/assets/72c49717-0d88-4d57-ad0d-02eaf5e1d28b)
+### Login
 
+![Login](https://github.com/user-attachments/assets/72c49717-0d88-4d57-ad0d-02eaf5e1d28b)
 
-Once Logged-in
-![image](https://github.com/user-attachments/assets/7d084b64-e6dd-42c1-8349-c6fa3e9b63cf)
+### Once Logged-in
 
-Upon Logout
-![image](https://github.com/user-attachments/assets/d0bc28af-a606-4276-9ca8-91261032b4f0)
+![Once Logged-in](https://github.com/user-attachments/assets/7d084b64-e6dd-42c1-8349-c6fa3e9b63cf)
+
+### Upon Logout
+
+![Upon Logout](https://github.com/user-attachments/assets/d0bc28af-a606-4276-9ca8-91261032b4f0)
 
