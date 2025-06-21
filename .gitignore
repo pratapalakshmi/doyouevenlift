@@ -9,6 +9,7 @@ ios/Pods/
 *.swo
 .expo/
 .expo-shared/
+android/build/
 android/.gradle/
 android/.idea/
 android/.vscode/
